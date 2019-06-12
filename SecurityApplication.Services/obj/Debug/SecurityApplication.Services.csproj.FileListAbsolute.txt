@@ -1,0 +1,14 @@
+C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplication.Services\bin\Debug\SecurityApplication.Services.dll
+C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplication.Services\bin\Debug\SecurityApplication.Services.pdb
+C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplication.Services\bin\Debug\BCrypt.Net.dll
+C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplication.Services\bin\Debug\BCrypt.Net.pdb
+C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplication.Services\bin\Debug\BCrypt.Net.xml
+C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplication.Services\obj\Debug\SecurityApplication.Services.csprojAssemblyReference.cache
+C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplication.Services\obj\Debug\SecurityApplication.Services.csproj.CoreCompileInputs.cache
+C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplication.Services\obj\Debug\SecurityApplication.Services.csproj.CopyComplete
+C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplication.Services\obj\Debug\SecurityApplication.Services.dll
+C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplication.Services\obj\Debug\SecurityApplication.Services.pdb
+C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplication.Services\bin\Debug\Dropbox.Api.dll
+C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplication.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplication.Services\bin\Debug\Dropbox.Api.xml
+C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplication.Services\bin\Debug\Newtonsoft.Json.xml

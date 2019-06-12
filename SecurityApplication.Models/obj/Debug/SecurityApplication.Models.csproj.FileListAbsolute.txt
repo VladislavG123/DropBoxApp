@@ -1,0 +1,6 @@
+C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplication.Models\bin\Debug\SecurityApplication.Models.dll
+C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplication.Models\bin\Debug\SecurityApplication.Models.pdb
+C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplication.Models\obj\Debug\SecurityApplication.Models.csproj.CoreCompileInputs.cache
+C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplication.Models\obj\Debug\SecurityApplication.Models.dll
+C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplication.Models\obj\Debug\SecurityApplication.Models.pdb
+C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplication.Models\obj\Debug\SecurityApplication.Models.csprojAssemblyReference.cache
