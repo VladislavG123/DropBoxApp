@@ -34,8 +34,8 @@
             </Button>
         </Canvas>
 
-        <DataGrid x:Name="dataGrid" Grid.ColumnSpan="3" Grid.Row="1">
-            
+        <DataGrid IsReadOnly="True" HorizontalContentAlignment="Center" x:Name="dataGrid" Grid.ColumnSpan="3" Grid.Row="1">
+           
         </DataGrid>
         
         <StackPanel Grid.Column="1" Grid.Row="2" Orientation="Vertical">

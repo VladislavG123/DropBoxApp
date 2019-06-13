@@ -12,3 +12,5 @@ C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplicat
 C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplication.Services\bin\Debug\Newtonsoft.Json.dll
 C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplication.Services\bin\Debug\Dropbox.Api.xml
 C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplication.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplication.Services\bin\Debug\SecurityApplication.Models.dll
+C:\Users\гороховв.CORP\source\repos\SecurityApplication\SecurityApplication.Services\bin\Debug\SecurityApplication.Models.pdb

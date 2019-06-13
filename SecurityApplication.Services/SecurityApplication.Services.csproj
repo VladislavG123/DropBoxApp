@@ -59,5 +59,11 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SecurityApplication.Models\SecurityApplication.Models.csproj">
+      <Project>{8b763ddd-67e0-49ae-936b-d370f0677ba7}</Project>
+      <Name>SecurityApplication.Models</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

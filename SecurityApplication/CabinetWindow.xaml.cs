@@ -2,6 +2,7 @@
 using SecurityApplication.Services;
 using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -19,11 +20,13 @@ namespace SecurityApplication
     public partial class CabinetWindow : Window
     {
         private string _uri;
-
+        private ObservableCollection<string> _items;
         public CabinetWindow()
         {
             InitializeComponent();
             uploadButton.IsEnabled = false;
+            _items = new ObservableCollection<string>();
+            dataGrid.ItemsSource = _items;
         }
 
         private void CloseButtonClick(object sender, RoutedEventArgs e)
@@ -41,19 +44,22 @@ namespace SecurityApplication
                 uploadButton.IsEnabled = true;
             }
             catch (Exception)
-            {}
+            { }
 
         }
 
         private async void WindowLoaded(object sender, RoutedEventArgs e)
         {
-            dataGrid.ItemsSource = await new DropBoxService().ListRootFolder();
+            var items = await new DropBoxService().ListRootFolder();
+            dataGrid.ItemsSource = items;
         }
 
         private async void UploadButtonClick(object sender, RoutedEventArgs e)
         {
-            await new DropBoxService().Upload(_uri, "file.txt");
-             
+            uploadButton.IsEnabled = false;
+            await new DropBoxService().Upload(_uri);
+            MessageBox.Show("Готово!");
+            WindowLoaded(null, null);
         }
     }
 }
